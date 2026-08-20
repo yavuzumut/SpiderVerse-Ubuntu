@@ -7,9 +7,9 @@
 
 ## 📸 Preview
 
-<!-- Add your desktop screenshot here -->
+<img width="1920" height="1200" alt="Ekran Görüntüsü 2026-08-17 20-35-59" src="https://github.com/user-attachments/assets/d3bbf612-646a-45e9-a919-d723df69c0b3" />
 
-![Spider-Verse Ubuntu Desktop](wallpapers/desktop-preview.png)
+
 
 ---
 
