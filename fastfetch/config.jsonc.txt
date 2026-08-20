@@ -1,0 +1,50 @@
+{
+  "logo": {
+    "type": "chafa",
+    "source": "~/İndirilenler/milesmorales.jpg",
+    "width" : 35,
+  },
+
+  "display": {
+    "color": {
+         "keys" : "red",
+        "title" : "red",
+        "output" : "white",
+        "separator" : "red"
+        }
+  },
+  "modules": [
+    "title",
+    {
+    "type" : "separator",
+    "outputColor" : "red"
+},
+    "os",
+    "host",
+    "kernel",
+    "uptime",
+    "packages",
+    "shell",
+    "display",
+    "de",
+    "wm",
+    "wmtheme",
+    "theme",
+    "icons",
+    "font",
+    "cursor",
+    "terminal",
+    "terminalfont",
+    "cpu",
+    "gpu",
+    "memory",
+    "swap",
+    "disk",
+    "localip",
+    "battery",
+    "locale",
+    "break",
+    "colors"
+  ]
+}
+
